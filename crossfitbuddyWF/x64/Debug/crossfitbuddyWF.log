@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Generowanie kodu...
+D:\Visual Studio repos\crossfitbuddyWF\crossfitbuddyWF\MyForm.h(278): warning C4715: "crossfitbuddyWF::MyForm::Inicjalizuj”: niewszystkie ścieżki kodu zwracają wartość
+  MyForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  crossfitbuddyWF.vcxproj -> D:\Visual Studio repos\crossfitbuddyWF\x64\Debug\crossfitbuddyWF.exe

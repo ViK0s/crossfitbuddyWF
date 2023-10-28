@@ -1,0 +1,4 @@
+D:\Visual Studio repos\crossfitbuddyWF\crossfitbuddyWF\x64\Debug\crossfitbuddyWF.vcxproj.AssemblyReference.cache
+D:\Visual Studio repos\crossfitbuddyWF\crossfitbuddyWF\x64\Debug\crossfitbuddyWF.vcxproj.SuggestedBindingRedirects.cache
+D:\Visual Studio repos\crossfitbuddyWF\crossfitbuddyWF\x64\Debug\crossfitbuddyWF.MyForm.resources
+D:\Visual Studio repos\crossfitbuddyWF\crossfitbuddyWF\x64\Debug\crossfitbuddyWF.vcxproj.GenerateResource.cache
