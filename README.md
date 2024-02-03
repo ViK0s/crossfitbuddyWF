@@ -6,6 +6,8 @@ This is a very simple presentation of a mobile app project I was working on at t
 
 As with most of projects that I have worked on for my course work, the names of variables, and comments in the code are made using polish.
 
+The program can generate the exercises to be written into a txt file.
+
 ## Usage
   - Compiling
 
